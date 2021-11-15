@@ -1,0 +1,20 @@
+*, *::after,*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.title {
+
+}
+
+.subtitle {
+
+}
+
+.hide {
+    display: none;
+}
